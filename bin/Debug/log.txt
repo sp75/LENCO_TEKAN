@@ -1,0 +1,38 @@
+29.12.2016 18:58:29 : Read file [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2014-06-30_21-08-16.csv]
+29.12.2016 18:58:29 : Start download file [http://live.lencolink.com/tools/tecan/export_to_csv.aspx?id=1623922,1626357,1623929,1623909,1623967,1625890,1623932,1625972,1623983]
+29.12.2016 18:58:31 : Download successful [C:\WinVSProjects\LENCO_TEKAN\Out\Lenco_ Tecan_Query_2014-06-30_21-08-16_reply.csv]
+29.12.2016 18:58:31 : File move from [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2014-06-30_21-08-16.csv] to C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2014-06-30_21-08-16.csv
+02.01.2017 23:14:37 : Read file [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_Tecan_Query_2016-05-24_15-24-01.csv]
+02.01.2017 23:14:38 : Start download file [http://live.lencolink.com/tools/tecan/export_to_csv.aspx?id=2232121,2232265,2232383,2232592,2231707,2231841,2231849,2232058,2232059,2232060,2232065,2232104,2232208,2232216,2232217,2232271,2232402,2235253,2235266,2235374,2235495,2235726,2235728,2235730,2235762,2235763,2235777,2231699,2232777,2232793,2230447,2234833,2234838,2235978,2235985,2202471,2202476,2202480]
+02.01.2017 23:14:39 : Download successful [C:\WinVSProjects\LENCO_TEKAN\Out\Lenco_Tecan_Query_2016-05-24_15-24-01_reply.csv]
+02.01.2017 23:14:39 : File move from [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_Tecan_Query_2016-05-24_15-24-01.csv] to C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_Tecan_Query_2016-05-24_15-24-01.csv
+02.01.2017 23:25:03 : Read file [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv]
+02.01.2017 23:25:03 : Start download file [http://live.lencolink.com/tools/tecan/export_to_csv.aspx?id=2449550,2449835,2450529,2450049,2443558]
+02.01.2017 23:25:04 : Download successful [C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+02.01.2017 23:25:04 : Copy to output folder [C:\WinVSProjects\LENCO_TEKAN\Out\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+02.01.2017 23:25:04 : File move from [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv] to C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv
+02.01.2017 23:27:37 : Read file [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv]
+02.01.2017 23:27:37 : Start download file [http://live.lencolink.com/tools/tecan/export_to_csv.aspx?id=2449550,2449835,2450529,2450049,2443558]
+02.01.2017 23:27:38 : Download successful [C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+02.01.2017 23:27:38 : Copy to output folder [C:\WinVSProjects\LENCO_TEKAN\Out\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+02.01.2017 23:27:38 : File move from [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv] to C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv
+02.01.2017 23:27:55 : Read file [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv]
+02.01.2017 23:27:55 : Start download file [http://live.lencolink.com/tools/tecan/export_to_csv.aspx?id=2449550,2449835,2450529,2450049,2443558]
+02.01.2017 23:27:56 : Download successful [C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+02.01.2017 23:27:56 : Copy to output folder [C:\WinVSProjects\LENCO_TEKAN\Out\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+02.01.2017 23:27:56 : File move from [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv] to C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv
+02.01.2017 23:36:47 : Read file [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv]
+02.01.2017 23:36:47 : Start download file [http://live.lencolink.com/tools/tecan/export_to_csv.aspx?id=2449550,2449835,2450529,2450049,2443558]
+02.01.2017 23:36:48 : Download successful [C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+02.01.2017 23:36:48 : Copy to output folder [C:\WinVSProjects\LENCO_TEKAN\Out\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+02.01.2017 23:36:48 : File move from [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv] to C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv
+03.01.2017 0:00:29 : Read file [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv]
+03.01.2017 0:00:29 : Start download file [http://live.lencolink.com/tools/tecan/export_to_csv.aspx?id=2449550U,2449835U,2450529U,2450049U,2443558U]
+03.01.2017 0:00:30 : Download successful [C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+03.01.2017 0:00:30 : Copy to output folder [C:\WinVSProjects\LENCO_TEKAN\Out\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+03.01.2017 0:00:30 : File move from [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv] to C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv
+03.01.2017 0:04:46 : Read file [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv]
+03.01.2017 0:04:46 : Start download file [http://live.lencolink.com/tools/tecan/export_to_csv.aspx?id=2449550U,2449835U,2450529U,2450049U,2443558U]
+03.01.2017 0:04:46 : Download successful [C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+03.01.2017 0:04:46 : Copy to output folder [C:\WinVSProjects\LENCO_TEKAN\Out\Lenco_ Tecan_Query_2016-12-29_09-14-50_reply.csv]
+03.01.2017 0:04:46 : File move from [C:\WinVSProjects\LENCO_TEKAN\In\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv] to C:\WinVSProjects\LENCO_TEKAN\Arh\Lenco_ Tecan_Query_2016-12-29_09-14-50.csv
