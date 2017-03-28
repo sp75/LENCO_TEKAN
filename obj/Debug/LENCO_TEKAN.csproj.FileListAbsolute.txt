@@ -16,3 +16,12 @@ C:\Projects\LENCO_TEKAN\LENCO_TEKAN\obj\Debug\LENCO_TEKAN.csprojResolveAssemblyR
 C:\Projects\LENCO_TEKAN\LENCO_TEKAN\obj\Debug\LENCO_TEKAN.Form1.resources
 C:\Projects\LENCO_TEKAN\LENCO_TEKAN\obj\Debug\LENCO_TEKAN.Properties.Resources.resources
 C:\Projects\LENCO_TEKAN\LENCO_TEKAN\obj\Debug\LENCO_TEKAN.csproj.GenerateResource.Cache
+c:\4iB\Lenco\LENCO_TEKAN\LENCO_TEKAN\bin\Debug\LENCO_TEKAN.exe.config
+c:\4iB\Lenco\LENCO_TEKAN\LENCO_TEKAN\obj\Debug\LENCO_TEKAN.exe
+c:\4iB\Lenco\LENCO_TEKAN\LENCO_TEKAN\obj\Debug\LENCO_TEKAN.pdb
+C:\4iB\Lenco\LENCO_TEKAN\LENCO_TEKAN\bin\Debug\LENCO_TEKAN.exe
+C:\4iB\Lenco\LENCO_TEKAN\LENCO_TEKAN\bin\Debug\LENCO_TEKAN.pdb
+C:\4iB\Lenco\LENCO_TEKAN\LENCO_TEKAN\obj\Debug\LENCO_TEKAN.csprojResolveAssemblyReference.cache
+C:\4iB\Lenco\LENCO_TEKAN\LENCO_TEKAN\obj\Debug\LENCO_TEKAN.Form1.resources
+C:\4iB\Lenco\LENCO_TEKAN\LENCO_TEKAN\obj\Debug\LENCO_TEKAN.Properties.Resources.resources
+C:\4iB\Lenco\LENCO_TEKAN\LENCO_TEKAN\obj\Debug\LENCO_TEKAN.csproj.GenerateResource.Cache

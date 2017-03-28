@@ -89,7 +89,7 @@ namespace LENCO_TEKAN
                             {
                                 continue;
                             }
-                            id += item/*.ToUpper().Trim('U')*/ + ",";
+                            id += item.Split( ',' )[0]/*.ToUpper().Trim('U')*/ + ",";
                         }
 
                         string fileout = Path.GetFileNameWithoutExtension(FullPath) + "_reply.csv";  
